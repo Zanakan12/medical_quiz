@@ -1,0 +1,1190 @@
+[
+  {
+    "id": 1,
+    "question": "Quel est le terme médical pour une inflammation de la conjonctive ?",
+    "choices": [
+      "Conjonctivite",
+      "Dermatite",
+      "Gastrite",
+      "Néphrite"
+    ],
+    "answer": 0,
+    "definition": "La conjonctivite est une inflammation de la conjonctive, la membrane qui recouvre l'œil, souvent causée par des infections ou des allergies."
+  },
+  {
+    "id": 2,
+    "question": "Que signifie le suffixe/préfixe « -algie » en terminologie médicale ?",
+    "choices": [
+      "douleur",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "La névralgie est une douleur siégeant sur le trajet d’un nerf."
+  },
+  {
+    "id": 3,
+    "question": "Que signifie le suffixe/préfixe « -asthénie » en terminologie médicale ?",
+    "choices": [
+      "fatigue",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "L'asthénie correspond à un état de fatigue générale, diminution de la force."
+  },
+  {
+    "id": 4,
+    "question": "Que signifie le suffixe/préfixe « caco- » en terminologie médicale ?",
+    "choices": [
+      "mauvais",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Cacogénésie : production de quelque chose de mauvais, terme rare mais le radical caco- signifie « mauvais »."
+  },
+  {
+    "id": 5,
+    "question": "Que signifie le suffixe/préfixe « carcin(o)- / onc(o)- » en terminologie médicale ?",
+    "choices": [
+      "cancer",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Carcinome ou oncologie se rapportent au cancer."
+  },
+  {
+    "id": 6,
+    "question": "Que signifie le suffixe/préfixe « -cide » en terminologie médicale ?",
+    "choices": [
+      "qui tue",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Fongicide : substance qui tue les champignons ; -cide signifie « qui tue »."
+  },
+  {
+    "id": 7,
+    "question": "Que signifie le suffixe/préfixe « endocrin(o)- » en terminologie médicale ?",
+    "choices": [
+      "qui sécrète à l’intérieur",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Endocrine : sécrétion directement dans le sang ; endo- (à l’intérieur) + -crine (sécréter)."
+  },
+  {
+    "id": 8,
+    "question": "Que signifie le suffixe/préfixe « -esthésie » en terminologie médicale ?",
+    "choices": [
+      "sensibilité, perception",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Anesthésie : suppression de la sensibilité."
+  },
+  {
+    "id": 9,
+    "question": "Que signifie le suffixe/préfixe « -gène / -génique » en terminologie médicale ?",
+    "choices": [
+      "qui engendre, qui donne naissance",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Pathogène : qui engendre la maladie."
+  },
+  {
+    "id": 10,
+    "question": "Que signifie le suffixe/préfixe « -ite » en terminologie médicale ?",
+    "choices": [
+      "inflammation",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Arthrite : inflammation d’une articulation."
+  },
+  {
+    "id": 11,
+    "question": "Que signifie le suffixe/préfixe « -lyse / -lytique » en terminologie médicale ?",
+    "choices": [
+      "destruction, dissociation",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Hémolyse : destruction des globules rouges."
+  },
+  {
+    "id": 12,
+    "question": "Que signifie le suffixe/préfixe « -ose / -ome » en terminologie médicale ?",
+    "choices": [
+      "évolution pathologique, processus; -ome tumeur",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Fibrome est une tumeur fibreuse ; -ose désigne souvent un état ou processus pathologique (arthrose)."
+  },
+  {
+    "id": 13,
+    "question": "Que signifie le suffixe/préfixe « -pathie » en terminologie médicale ?",
+    "choices": [
+      "maladie, affection",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Neuropathie : maladie du système nerveux."
+  },
+  {
+    "id": 14,
+    "question": "Que signifie le suffixe/préfixe « -pause » en terminologie médicale ?",
+    "choices": [
+      "arrêt, cessation",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Andropause : arrêt/progression de la fonction androgénique."
+  },
+  {
+    "id": 15,
+    "question": "Que signifie le suffixe/préfixe « -physe » en terminologie médicale ?",
+    "choices": [
+      "croissance",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Épiphyse : zone de croissance d’un os long (sens anatomique)."
+  },
+  {
+    "id": 16,
+    "question": "Que signifie le suffixe/préfixe « -phyte » en terminologie médicale ?",
+    "choices": [
+      "excroissance, végétation",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Acanthophyte : végétation épineuse ; en médecine, dermatophyte : champignon de la peau."
+  },
+  {
+    "id": 17,
+    "question": "Que signifie le suffixe/préfixe « -plégie » en terminologie médicale ?",
+    "choices": [
+      "paralysie",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Hémiplégie : paralysie d’une moitié du corps."
+  },
+  {
+    "id": 18,
+    "question": "Que signifie le suffixe/préfixe « -poïèse » en terminologie médicale ?",
+    "choices": [
+      "formation, création",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Hématopoïèse : formation des cellules sanguines."
+  },
+  {
+    "id": 19,
+    "question": "Que signifie le suffixe/préfixe « -ptose » en terminologie médicale ?",
+    "choices": [
+      "chute, abaissement",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Néphroptose : abaissement (chute) du rein."
+  },
+  {
+    "id": 20,
+    "question": "Que signifie le suffixe/préfixe « -ptysie » en terminologie médicale ?",
+    "choices": [
+      "crachat",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Hémoptysie : crachat de sang d’origine bronchopulmonaire."
+  },
+  {
+    "id": 21,
+    "question": "Que signifie le suffixe/préfixe « -rragie » en terminologie médicale ?",
+    "choices": [
+      "écoulement sanguin en jet",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Métrorragie : saignement utérin anormal en dehors des règles."
+  },
+  {
+    "id": 22,
+    "question": "Que signifie le suffixe/préfixe « -rrhée » en terminologie médicale ?",
+    "choices": [
+      "écoulement (non sanguin)",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Diarrhée : écoulement/émission excessive de selles liquides."
+  },
+  {
+    "id": 23,
+    "question": "Que signifie le suffixe/préfixe « -spasme » en terminologie médicale ?",
+    "choices": [
+      "contraction involontaire",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Blepharospasme : contraction involontaire de la paupière."
+  },
+  {
+    "id": 24,
+    "question": "Que signifie le suffixe/préfixe « -stase » en terminologie médicale ?",
+    "choices": [
+      "arrêt, stagnation",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Hémostase : arrêt d’un saignement."
+  },
+  {
+    "id": 25,
+    "question": "Que signifie le suffixe/préfixe « -sténose » en terminologie médicale ?",
+    "choices": [
+      "rétrécissement",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Sténose aortique : rétrécissement de la valve aortique."
+  },
+  {
+    "id": 26,
+    "question": "Que signifie le suffixe/préfixe « -thérapie » en terminologie médicale ?",
+    "choices": [
+      "traitement",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Chimiothérapie : traitement par agents chimiques."
+  },
+  {
+    "id": 27,
+    "question": "Que signifie le suffixe/préfixe « -trope / -tropisme » en terminologie médicale ?",
+    "choices": [
+      "affinité pour, qui se dirige vers",
+      "inflammation",
+      "tumeur",
+      "arrêt"
+    ],
+    "answer": 0,
+    "definition": "Neurotrope : qui a une affinité pour le tissu nerveux."
+  },
+  {
+    "id": 28,
+    "question": "Que signifie le préfixe « a-/an- » ?",
+    "choices": [
+      "absence de, privation de",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Anurie : absence d'émission d'urine."
+  },
+  {
+    "id": 29,
+    "question": "Que signifie le préfixe « aniso- » ?",
+    "choices": [
+      "inégal, irrégulier",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Anisocytose : inégalité de taille des cellules sanguines."
+  },
+  {
+    "id": 30,
+    "question": "Que signifie le préfixe « bi-/di-/diplo- » ?",
+    "choices": [
+      "deux, double",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Diplopie : vision double."
+  },
+  {
+    "id": 31,
+    "question": "Que signifie le préfixe « brady- » ?",
+    "choices": [
+      "lent",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Bradycardie : rythme cardiaque lent."
+  },
+  {
+    "id": 32,
+    "question": "Que signifie le préfixe « dia- » ?",
+    "choices": [
+      "à travers, entre",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Dialyse : passage/échange à travers une membrane."
+  },
+  {
+    "id": 33,
+    "question": "Que signifie le préfixe « en-/endo- » ?",
+    "choices": [
+      "dans, dedans, à l’intérieur",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Endoscopie : observation à l’intérieur d’un organe."
+  },
+  {
+    "id": 34,
+    "question": "Que signifie le préfixe « eu- » ?",
+    "choices": [
+      "normal, vrai, facile",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Eupnée : respiration normale."
+  },
+  {
+    "id": 35,
+    "question": "Que signifie le préfixe « exo- » ?",
+    "choices": [
+      "hors, dehors, à l’extérieur",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Exophtalmie : saillie du globe oculaire en dehors de l’orbite."
+  },
+  {
+    "id": 36,
+    "question": "Que signifie le préfixe « hémi- » ?",
+    "choices": [
+      "moitié, demi",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Hémiplégie : paralysie d’une moitié du corps."
+  },
+  {
+    "id": 37,
+    "question": "Que signifie le préfixe « hyper- » ?",
+    "choices": [
+      "trop, au-dessus de, excès",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Hyperglycémie : excès de glucose dans le sang."
+  },
+  {
+    "id": 38,
+    "question": "Que signifie le préfixe « hypo- » ?",
+    "choices": [
+      "peu, en dessous de",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Hypotension : tension artérielle inférieure à la normale."
+  },
+  {
+    "id": 39,
+    "question": "Que signifie le préfixe « iso- » ?",
+    "choices": [
+      "égal",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Isotonique : même pression/osmolarité."
+  },
+  {
+    "id": 40,
+    "question": "Que signifie le préfixe « macro- » ?",
+    "choices": [
+      "grand",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Macrocyte : grande cellule."
+  },
+  {
+    "id": 41,
+    "question": "Que signifie le préfixe « méga-/mégalo- » ?",
+    "choices": [
+      "très grand",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Mégacolon : dilatation très importante du côlon."
+  },
+  {
+    "id": 42,
+    "question": "Que signifie le préfixe « micro- » ?",
+    "choices": [
+      "petit",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Microcéphalie : petite taille de la tête."
+  },
+  {
+    "id": 43,
+    "question": "Que signifie le préfixe « morph(o)- » ?",
+    "choices": [
+      "forme, qui ressemble à",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Polymorphe : qui présente plusieurs formes."
+  },
+  {
+    "id": 44,
+    "question": "Que signifie le préfixe « oligo- » ?",
+    "choices": [
+      "peu",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Oligurie : faible volume d’urine émis."
+  },
+  {
+    "id": 45,
+    "question": "Que signifie le préfixe « ortho- » ?",
+    "choices": [
+      "droit, normal",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Orthopnée : dyspnée nécessitant la position assise droite."
+  },
+  {
+    "id": 46,
+    "question": "Que signifie le préfixe « pan- » ?",
+    "choices": [
+      "tout",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Pancolite : inflammation de tout le côlon."
+  },
+  {
+    "id": 47,
+    "question": "Que signifie le préfixe « para- » ?",
+    "choices": [
+      "à côté de, voisin, anormal",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Paramédian : situé à côté de la ligne médiane ; paraphrase anat./clinique."
+  },
+  {
+    "id": 48,
+    "question": "Que signifie le préfixe « -pénie » ?",
+    "choices": [
+      "pauvreté, diminution",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Leucopénie : diminution du nombre de globules blancs."
+  },
+  {
+    "id": 49,
+    "question": "Que signifie le préfixe « pollaki- » ?",
+    "choices": [
+      "souvent, fréquent (surtout pour la miction)",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Pollakiurie : mictions fréquentes en petite quantité."
+  },
+  {
+    "id": 50,
+    "question": "Que signifie le préfixe « poly- » ?",
+    "choices": [
+      "nombreux, plusieurs",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Polydipsie : soif excessive."
+  },
+  {
+    "id": 51,
+    "question": "Que signifie le préfixe « pré- / anté- » ?",
+    "choices": [
+      "avant, en avant de",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Préopératoire : avant l’opération ; antépulsion : mouvement vers l’avant."
+  },
+  {
+    "id": 52,
+    "question": "Que signifie le préfixe « primi- » ?",
+    "choices": [
+      "premier",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Primigeste : femme enceinte pour la première fois."
+  },
+  {
+    "id": 53,
+    "question": "Que signifie le préfixe « syn- » ?",
+    "choices": [
+      "avec, ensemble",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Synarthrose : articulation fixe, os ensemble."
+  },
+  {
+    "id": 54,
+    "question": "Que signifie le préfixe « tachy- » ?",
+    "choices": [
+      "rapide",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Tachycardie : accélération du rythme cardiaque."
+  },
+  {
+    "id": 55,
+    "question": "Que signifie le préfixe « tétr(a)- / quadr(i)- » ?",
+    "choices": [
+      "quatre",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Tétraplégie : paralysie des quatre membres."
+  },
+  {
+    "id": 56,
+    "question": "Que signifie le préfixe « tri- / ter- » ?",
+    "choices": [
+      "trois",
+      "lent",
+      "rapide",
+      "en dehors"
+    ],
+    "answer": 0,
+    "definition": "Trisomie : présence de trois exemplaires d’un chromosome."
+  },
+  {
+    "id": 57,
+    "question": "Dans le contexte médical, que signifie « -malacie » ?",
+    "choices": [
+      "mou, ramollissement",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Chondromalacie : ramollissement du cartilage."
+  },
+  {
+    "id": 58,
+    "question": "Dans le contexte médical, que signifie « pachy- » ?",
+    "choices": [
+      "épais",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Pachydermie : épaississement de la peau."
+  },
+  {
+    "id": 59,
+    "question": "Dans le contexte médical, que signifie « -phène » ?",
+    "choices": [
+      "paraître, apparaître",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Diaphane : qui laisse paraître/voir au travers (racine phan/phainein)."
+  },
+  {
+    "id": 60,
+    "question": "Dans le contexte médical, que signifie « -phrène / phrén- » ?",
+    "choices": [
+      "esprit, intelligence (historique) / diaphragme (anat.)",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Schizophrénie (ancien sens « esprit ») ; phrénic = relatif au diaphragme en anatomie."
+  },
+  {
+    "id": 61,
+    "question": "Dans le contexte médical, que signifie « sclér(o)- / -sclérose » ?",
+    "choices": [
+      "dur, induration",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Sclérose en plaques : processus de durcissement/induration des tissus nerveux."
+  },
+  {
+    "id": 62,
+    "question": "Dans le contexte médical, que signifie « xér(o)- » ?",
+    "choices": [
+      "sec, desséché",
+      "tumeur",
+      "arrêt",
+      "couleur"
+    ],
+    "answer": 0,
+    "definition": "Xérostomie : sécheresse de la bouche."
+  },
+  {
+    "id": 63,
+    "question": "À quelle couleur renvoie le radical « chlor(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "vert",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Chlorophylle en biologie (vert) ; en médecine, chlorose (teint verdâtre, terme historique)."
+  },
+  {
+    "id": 64,
+    "question": "À quelle couleur renvoie le radical « chrom(o)- / chromat(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "couleur",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Chromatographie : écriture/codage par couleurs (sens large)."
+  },
+  {
+    "id": 65,
+    "question": "À quelle couleur renvoie le radical « cyan(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "bleu",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Cyanose : coloration bleutée de la peau par manque d’oxygène."
+  },
+  {
+    "id": 66,
+    "question": "À quelle couleur renvoie le radical « érythr(o)- / rhod(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "rouge",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Érythrocyte : globule rouge ; rhodopsine : pigment rouge de la rétine."
+  },
+  {
+    "id": 67,
+    "question": "À quelle couleur renvoie le radical « hyal(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "transparent",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Hyalin : substance transparente, vitreuse."
+  },
+  {
+    "id": 68,
+    "question": "À quelle couleur renvoie le radical « leuc(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "blanc",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Leucocyte : globule blanc."
+  },
+  {
+    "id": 69,
+    "question": "À quelle couleur renvoie le radical « mélan(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "noir",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Mélanome : tumeur maligne des mélanocytes (pigment noir)."
+  },
+  {
+    "id": 70,
+    "question": "À quelle couleur renvoie le radical « polio- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "gris",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Poliomyélite : inflammation de la substance grise de la moelle épinière."
+  },
+  {
+    "id": 71,
+    "question": "À quelle couleur renvoie le radical « xanth(o)- / luté(o)- » ?",
+    "choices": [
+      "rouge",
+      "jaune",
+      "jaune",
+      "bleu"
+    ],
+    "answer": 2,
+    "definition": "Xanthomes : dépôts jaunâtres ; corps jaune = corpus luteum."
+  },
+  {
+    "id": 72,
+    "question": "Que signifie le terme « Dermatite » ?",
+    "choices": [
+      "Dermatite",
+      "Dermatose",
+      "Dermalgie",
+      "Dermoplastie"
+    ],
+    "answer": 0,
+    "definition": "Inflammation de la peau."
+  },
+  {
+    "id": 73,
+    "question": "Que signifie le terme « Gastrite » ?",
+    "choices": [
+      "Gastrite",
+      "Gastrectomie",
+      "Gastrolyse",
+      "Gastropexie"
+    ],
+    "answer": 0,
+    "definition": "Inflammation de l'estomac."
+  },
+  {
+    "id": 74,
+    "question": "Que signifie le terme « Néphrite » ?",
+    "choices": [
+      "Néphrose",
+      "Néphrectomie",
+      "Néphrite",
+      "Néphrolyse"
+    ],
+    "answer": 2,
+    "definition": "Inflammation du rein."
+  },
+  {
+    "id": 75,
+    "question": "Que signifie le terme « Arthrite » ?",
+    "choices": [
+      "Arthrose",
+      "Arthrite",
+      "Arthroplastie",
+      "Arthralgie"
+    ],
+    "answer": 1,
+    "definition": "Inflammation d'une articulation."
+  },
+  {
+    "id": 76,
+    "question": "Que signifie le terme « Myalgie » ?",
+    "choices": [
+      "Myalgie",
+      "Myopathie",
+      "Myoplastie",
+      "Myolyse"
+    ],
+    "answer": 0,
+    "definition": "Douleur musculaire."
+  },
+  {
+    "id": 77,
+    "question": "Que signifie le terme « Hémorragie » ?",
+    "choices": [
+      "Hémoptysie",
+      "Hématurie",
+      "Hémorragie",
+      "Hémostase"
+    ],
+    "answer": 2,
+    "definition": "Écoulement de sang en jet."
+  },
+  {
+    "id": 78,
+    "question": "Que signifie le terme « Diarrhée » ?",
+    "choices": [
+      "Diarrhée",
+      "Dysurie",
+      "Polyurie",
+      "Pollakiurie"
+    ],
+    "answer": 0,
+    "definition": "Écoulement non sanguin, selles liquides fréquentes."
+  },
+  {
+    "id": 79,
+    "question": "Que signifie le terme « Hémostase » ?",
+    "choices": [
+      "Hémostase",
+      "Hémolyse",
+      "Hématopoïèse",
+      "Hémopathie"
+    ],
+    "answer": 0,
+    "definition": "Arrêt d’un saignement."
+  },
+  {
+    "id": 80,
+    "question": "Que signifie le terme « Sténose » ?",
+    "choices": [
+      "Sténose",
+      "Scoliose",
+      "Nécrose",
+      "Fibrose"
+    ],
+    "answer": 0,
+    "definition": "Rétrécissement d’un conduit."
+  },
+  {
+    "id": 81,
+    "question": "Que signifie le terme « Cytopénie » ?",
+    "choices": [
+      "Cytolyse",
+      "Cytopénie",
+      "Cytose",
+      "Cytogénèse"
+    ],
+    "answer": 1,
+    "definition": "Diminution du nombre de cellules."
+  },
+  {
+    "id": 82,
+    "question": "Que signifie le terme « Hyperglycémie » ?",
+    "choices": [
+      "Hypoglycémie",
+      "Hyperglycémie",
+      "Euglycémie",
+      "Aglycémie"
+    ],
+    "answer": 1,
+    "definition": "Excès de glucose dans le sang."
+  },
+  {
+    "id": 83,
+    "question": "Que signifie le terme « Hypotension » ?",
+    "choices": [
+      "Hypertension",
+      "Hypotension",
+      "Eutension",
+      "Atension"
+    ],
+    "answer": 1,
+    "definition": "Pression artérielle trop basse."
+  },
+  {
+    "id": 84,
+    "question": "Que signifie le terme « Bradycardie » ?",
+    "choices": [
+      "Bradycardie",
+      "Tachycardie",
+      "Cardiomégalie",
+      "Cardiolyse"
+    ],
+    "answer": 0,
+    "definition": "Rythme cardiaque lent."
+  },
+  {
+    "id": 85,
+    "question": "Que signifie le terme « Tachycardie » ?",
+    "choices": [
+      "Bradycardie",
+      "Cardiopathie",
+      "Tachycardie",
+      "Cardioplégie"
+    ],
+    "answer": 2,
+    "definition": "Rythme cardiaque rapide."
+  },
+  {
+    "id": 86,
+    "question": "Que signifie le terme « Endoscopie » ?",
+    "choices": [
+      "Exoscopie",
+      "Endoscopie",
+      "Biopsie",
+      "Tomographie"
+    ],
+    "answer": 1,
+    "definition": "Examen de l’intérieur d’un organe."
+  },
+  {
+    "id": 87,
+    "question": "Que signifie le terme « Biopsie » ?",
+    "choices": [
+      "Nécropsie",
+      "Autopsie",
+      "Biopsie",
+      "Cytoponction"
+    ],
+    "answer": 2,
+    "definition": "Prélèvement d’un fragment de tissu pour examen."
+  },
+  {
+    "id": 88,
+    "question": "Que signifie le terme « Hémiparésie » ?",
+    "choices": [
+      "Hémiplégie",
+      "Hémiparésie",
+      "Tétraplégie",
+      "Paraplégie"
+    ],
+    "answer": 1,
+    "definition": "Déficit moteur partiel d’une moitié du corps."
+  },
+  {
+    "id": 89,
+    "question": "Que signifie le terme « Polydipsie » ?",
+    "choices": [
+      "Polyurie",
+      "Polydipsie",
+      "Pollakiurie",
+      "Oligurie"
+    ],
+    "answer": 1,
+    "definition": "Soif excessive (nombreux besoins de boire)."
+  },
+  {
+    "id": 90,
+    "question": "Que signifie le terme « Oligurie » ?",
+    "choices": [
+      "Oligurie",
+      "Polyurie",
+      "Anurie",
+      "Dysurie"
+    ],
+    "answer": 0,
+    "definition": "Faible volume d'urines."
+  },
+  {
+    "id": 91,
+    "question": "Que signifie le terme « Anurie » ?",
+    "choices": [
+      "Anurie",
+      "Oligurie",
+      "Pollakiurie",
+      "Nycturie"
+    ],
+    "answer": 0,
+    "definition": "Absence d'urines."
+  },
+  {
+    "id": 92,
+    "question": "Que signifie le terme « Leucopénie » ?",
+    "choices": [
+      "Leucocytose",
+      "Leucopénie",
+      "Érythrocytose",
+      "Thrombocytose"
+    ],
+    "answer": 1,
+    "definition": "Diminution des globules blancs."
+  },
+  {
+    "id": 93,
+    "question": "Que signifie le terme « Cyanose » ?",
+    "choices": [
+      "Érythrose",
+      "Chlorose",
+      "Cyanose",
+      "Mélanose"
+    ],
+    "answer": 2,
+    "definition": "Coloration bleue de la peau par hypoxie."
+  },
+  {
+    "id": 94,
+    "question": "Que signifie le terme « Érythrocyte » ?",
+    "choices": [
+      "Leucocyte",
+      "Érythrocyte",
+      "Thrombocyte",
+      "Chondrocyte"
+    ],
+    "answer": 1,
+    "definition": "Globule rouge."
+  },
+  {
+    "id": 95,
+    "question": "Que signifie le terme « Leucocyte » ?",
+    "choices": [
+      "Leucocyte",
+      "Érythrocyte",
+      "Mélanocyte",
+      "Histiocyte"
+    ],
+    "answer": 0,
+    "definition": "Globule blanc."
+  },
+  {
+    "id": 96,
+    "question": "Que signifie le terme « Mélanome » ?",
+    "choices": [
+      "Lipome",
+      "Fibrome",
+      "Mélanome",
+      "Hémangiome"
+    ],
+    "answer": 2,
+    "definition": "Tumeur maligne des mélanocytes."
+  },
+  {
+    "id": 97,
+    "question": "Que signifie le terme « Fibrose » ?",
+    "choices": [
+      "Nécrose",
+      "Fibrose",
+      "Sclérose",
+      "Sténose"
+    ],
+    "answer": 1,
+    "definition": "Prolifération de tissu fibreux."
+  },
+  {
+    "id": 98,
+    "question": "Que signifie le terme « Sclérose » ?",
+    "choices": [
+      "Sclérose",
+      "Nécrose",
+      "Névro- se",
+      "Ptose"
+    ],
+    "answer": 0,
+    "definition": "Durcissement pathologique d’un tissu."
+  },
+  {
+    "id": 99,
+    "question": "Que signifie le terme « Nécrose » ?",
+    "choices": [
+      "Nécrose",
+      "Névrose",
+      "Sclérose",
+      "Fibrose"
+    ],
+    "answer": 0,
+    "definition": "Mort d’un tissu."
+  }
+]

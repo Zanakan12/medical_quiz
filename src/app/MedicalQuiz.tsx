@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { sampleQuestions, MedicalQuizQuestion } from "./medical-quiz-data";
+import questionsJson from "../data/questions_terminologie_medicale_fr.json";
 
 export default function MedicalQuiz() {
   const [current, setCurrent] = useState(0);
@@ -18,8 +19,12 @@ export default function MedicalQuiz() {
   const [correctIndex, setCorrectIndex] = useState<number>(-1);
 
   useEffect(() => {
+    // Combine les deux sources de questions
+    const arr: MedicalQuizQuestion[] = [
+      ...sampleQuestions,
+      ...questionsJson
+    ];
     // Mélange toutes les questions et en prend 20
-    const arr = [...sampleQuestions];
     for (let i = arr.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [arr[i], arr[j]] = [arr[j], arr[i]];
