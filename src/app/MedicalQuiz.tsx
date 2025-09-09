@@ -11,24 +11,63 @@ export default function MedicalQuiz() {
   const [finished, setFinished] = useState(false);
   const [shuffleKey, setShuffleKey] = useState(0); // pour re-mélanger à la demande
 
-  // Questions non mélangées côté serveur
-  const questions = sampleQuestions;
-  const question = questions[current];
 
-  // Mélange des choix côté client uniquement
+  // Mélange et sélectionne 20 questions à chaque partie
+  const [questions, setQuestions] = useState<MedicalQuizQuestion[]>([]);
   const [shuffled, setShuffled] = useState<{ choice: string; idx: number }[]>([]);
   const [correctIndex, setCorrectIndex] = useState<number>(-1);
 
   useEffect(() => {
-    if (!question) return;
-    const arr = [...question.choices].map((choice, idx) => ({ choice, idx }));
+    // Mélange toutes les questions et en prend 20
+    const arr = [...sampleQuestions];
     for (let i = arr.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [arr[i], arr[j]] = [arr[j], arr[i]];
     }
-    setShuffled(arr);
-    setCorrectIndex(arr.findIndex(item => item.idx === question.answer));
-  }, [current, question]);
+    setQuestions(arr.slice(0, 20));
+  }, [shuffleKey]);
+
+
+  const question = questions[current];
+
+  useEffect(() => {
+    if (!question) return;
+    // Détecte si la bonne réponse est une phrase (commence par "Inflammation" ou "inflammation")
+    const isPhrase = /^inflammation|^Inflammation/.test(question.choices[question.answer]);
+    // Récupère toutes les réponses du même format
+    const allAnswers = Array.from(new Set(questions.flatMap(q => q.choices)));
+    const distractors = allAnswers.filter(ans => {
+      if (isPhrase) {
+        return ans !== question.choices[question.answer] && (/^inflammation|^Inflammation/.test(ans));
+      } else {
+        return ans !== question.choices[question.answer] && !/^inflammation|^Inflammation/.test(ans);
+      }
+    });
+    // Mélange les distracteurs
+    for (let i = distractors.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [distractors[i], distractors[j]] = [distractors[j], distractors[i]];
+    }
+    // Sélectionne 3 distracteurs différents
+    const selectedDistractors = distractors.slice(0, 3);
+    // Crée le tableau de choix (bonne réponse + distracteurs)
+    const choices = [question.choices[question.answer], ...selectedDistractors];
+    // Mélange les choix
+    for (let i = choices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [choices[i], choices[j]] = [choices[j], choices[i]];
+    }
+    setShuffled(choices.map((choice, idx) => ({ choice, idx })));
+    setCorrectIndex(choices.findIndex(c => c === question.choices[question.answer]));
+  }, [current, question, questions]);
+
+  if (!question) {
+    return (
+      <div className="bg-white rounded-lg shadow-lg p-8 text-center max-w-md mx-auto">
+        <h2 className="text-2xl font-bold mb-4">Chargement du quiz...</h2>
+      </div>
+    );
+  }
 
   function handleChoice(index: number) {
     setSelected(index);
