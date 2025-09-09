@@ -149,6 +149,9 @@ export default function MedicalQuiz() {
             ) : (
               <p className="text-red-700 font-semibold">Mauvaise réponse. La bonne réponse était : <span className="font-bold">{shuffled[correctIndex].choice}</span></p>
             )}
+            {question.definition && (
+              <p className="mt-2 text-gray-700 italic">Définition : {question.definition}</p>
+            )}
             <button
               onClick={nextQuestion}
               className="bg-blue-600 text-white px-6 py-2 rounded mt-4 hover:bg-blue-700 transition"
